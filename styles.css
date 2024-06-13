@@ -44,7 +44,12 @@ ul.links {
 
 .bottom {
   display: flex;
+  flex-wrap: wrap;
   gap: 64px;
+}
+
+.text {
+  width: 450px;
 }
 
 .text h1 {
