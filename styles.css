@@ -48,17 +48,17 @@ ul.links {
   flex-wrap: wrap;
 }
 
-.text {
+.bottom .text {
   width: 450px;
 }
 
-.text h1 {
+.bottom .text h1 {
   color: #F9FAF8;
   font-size: 48px;
   font-weight: 900;
 }
 
-.text p {
+.bottom .text p {
   color: #E5E7EB;
   font-size: 18px;
   text-wrap: wrap;
